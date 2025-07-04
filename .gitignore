@@ -1,0 +1,25 @@
+
+---
+
+## ✅ `.gitignore`
+
+```gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# SQLite database file
+*.db
+
+# VSCode settings
+.vscode/
+
+# Mac OS files
+.DS_Store
